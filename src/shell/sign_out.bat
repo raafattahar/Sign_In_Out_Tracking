@@ -1,0 +1,1 @@
+echo %date% %time%; >> "C:\sing_in_track\pointage.csv"

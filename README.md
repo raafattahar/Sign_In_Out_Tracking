@@ -3,7 +3,8 @@ If you are like me, you like to track when did you start working in the morning 
 then this is the right door.
 
 In this small example, this is only WINDOWS prototype
-###How to deploy the shell 
+
+### How to deploy the shell 
 * Run GPEdit.MSC
 * go to Computer Configuration -> Windows Settings -> Scripts, 
 * add startup /shutdown scripts.

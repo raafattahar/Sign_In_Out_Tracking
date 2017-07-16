@@ -7,7 +7,7 @@ In this small example, this is only WINDOWS prototype
 ### How to deploy the shell 
 * Run GPEdit.MSC
 * go to Computer Configuration -> Windows Settings -> Scripts, 
-* add startup /shutdown scripts.
+* add sign_in.bat under startup and sign_out.bat under shutdown scripts (scripts are under "src/shell")
 * Make sure to create the **_path_** that is specified inside,
 in the given example, you need to create a folder "sing_in_track" under "C:". 
 
